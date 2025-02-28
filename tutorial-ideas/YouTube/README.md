@@ -3,6 +3,8 @@
 This project is a simple **YouTube interface clone** built using HTML and CSS. It is a static web page that mimics the basic features of YouTube.
 For creating this project, I've followed the YouTube channel SuperSimpleDev, a huge thanks for this excelent tutorial.
 You can reach the video from here: https://www.youtube.com/watch?v=G3e-cpL7ofc&t=16913s
+## Styles
+You can see the .css files inside styles folder.
 
 ## Features
 
