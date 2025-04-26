@@ -1,2 +1,5 @@
-# html-css
-This repository contains HTML-CSS projects that I have written throughout my learning journey, either from tutorials or recreating existing websites.
+# YouTube
+This repository contains HTML-CSS codes of clone YouTube I've created with SuperSimpleDEV-HTML&CSS Full Course video.
+(I've taken necessary png's from there)
+
+
